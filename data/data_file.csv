@@ -1,0 +1,11 @@
+emp_id,emp_name,emp_address,proficiency
+1,John,Bangalore,"c,c++,python"
+2,Mary,Hyderabad,"java,react,python"
+3,Sherlock,Mumbai,"c++,java,python,django"
+4,Ross Geller,Bangalore,"c++,django"
+5,Monica Geller,Mumbai,"c++,python"
+6,Rachel Green,Mumbai,"mongo_db,java"
+7,Sherlock,Mumbai,"css,html,javascript,bootstrap"
+8,Sherlock,Mumbai,"c++,xml,bootstrap"
+9,Sherlock,Mumbai,"xml,django"
+10,Marie,Hyderabad,"react,html"

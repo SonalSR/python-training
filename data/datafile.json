@@ -1,0 +1,64 @@
+{
+    "employee_details":[
+        {
+            "emp_id":"1",
+            "emp_name":"John",
+            "emp_address":"Bangalore",
+            "proficiency":["c","c++","python"]
+        },
+        {
+            "emp_id":2,
+            "emp_name":"Mary",
+            "emp_address":"Hyderabad",
+            "proficiency":["java","react","python"]
+        },
+        {
+            "emp_id":"3",
+            "emp_name":"Sherlock",
+            "emp_address":"Mumbai",
+            "proficiency":["c++","java","python","django"]
+        },
+        {
+            "emp_id":"4",
+            "emp_name":"Ross Geller",
+            "emp_address":"Bangalore",
+            "proficiency":["c++","django"]
+        },
+        {
+            "emp_id":"5",
+            "emp_name":"Monica Geller",
+            "emp_address":"Mumbai",
+            "proficiency":["c++","python"]
+        },
+        {
+            "emp_id":"6",
+            "emp_name":"Rachel Green",
+            "emp_address":"Mumbai",
+            "proficiency":["mongo_db","java"]
+        },
+        {
+            "emp_id":"7",
+            "emp_name":"Sherlock",
+            "emp_address":"Mumbai",
+            "proficiency":["css","html","javascript","bootstrap"]
+        },
+        {
+            "emp_id":"8",
+            "emp_name":"Sherlock",
+            "emp_address":"Mumbai",
+            "proficiency":["c++","xml","bootstrap"]
+        },
+        {
+            "emp_id":"9",
+            "emp_name":"Sherlock",
+            "emp_address":"Mumbai",
+            "proficiency":["xml","django"]
+        },
+        {
+            "emp_id":"10",
+            "emp_name":"Marie",
+            "emp_address":"Hyderabad",
+            "proficiency":["react","html"]
+        }
+    ]
+}
